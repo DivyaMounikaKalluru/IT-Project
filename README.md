@@ -1,6 +1,8 @@
 # Back to teams Application
 **IT8010:** IT Project
+
 **Author:** Divya Mounika Kalluru
+
 **Submitted to:** Dr. Murat Ozer
 
 **1. Abstract:**
@@ -18,6 +20,7 @@ The world used to be calm and peaceful without any complications in the life of 
 **4. Research Questions:**
 
 • Will the proposed solution help the individuals to overcome isolation and regain mental health because of the pandemic?
+
 • Will the proposed solution ensure a safe and secure environment for individuals to continue their day-to-day responsibilities? 
 
 **5. Literature Review:**
