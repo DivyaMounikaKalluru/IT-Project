@@ -44,7 +44,7 @@ This is a self-assessment where individuals answer various questions concerned w
 
 Once an individual creates a POD or sign up for a POD after taking the mandatory health assessment, they can ask for supplies like sanitizers, wipes, masks, hand soap, etc., This can be done by clicking the request supplies button that will trigger an email to the management.
 
-**6.1 Flow Charts
+**6.1 Flow Charts**
 
 **6.1.1 Sign Up for a POD:**
 
@@ -81,16 +81,25 @@ In conclusion, this application provides a healthy workplace for individuals to 
 **9. Future Scope:**
 
 • Exposer score - Track the movement of people using the app and assign risk numbers to the places they travel to. The riskier places they travel to, the higher their exposure score will be.
+
 • Enable HRs to send notifications to people in a particular county/location about purple/red zones.
+
 • Integrate app with Virtual Assistants from Health Department to assist them with precautions, next steps, counseling.
+
 • Allowing Companies/Universities to track the number of cases within the respective buildings.
+
 • Add more ways to ensure less spread by integrating special features for analyzing the temperature, anxiety levels, and so on.
+
 • The application can check (using a survey) if a person is suffering from constant anxiety, the organizations can assign counselors/counseling sessions for such people.
 
 **10 . References:**
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7307707/#:~:text=the%20Coronavirus%20Outbreak-,A%20novel%20coronavirus%20(CoV)%20named%20'2019%2DnCoV',19%20is%20a%20pathogenic%20virus.
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7306546/
+
 https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2770146
+
 https://www.cnbc.com/coronavirus/
+
 https://www.flexjobs.com/blog/post/flexjobs-mha-mental-health-workplace-pandemic/
