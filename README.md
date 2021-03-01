@@ -5,7 +5,7 @@
 
 **Submitted to:** Dr. Murat Ozer
 
-![University of Cincinnai Logo](https://user-images.githubusercontent.com/71857062/109552649-0e683b00-7aa0-11eb-9384-7729239fa932.png)
+![image](https://user-images.githubusercontent.com/71857062/109552787-38b9f880-7aa0-11eb-95ec-dfa5d166b728.png)
 
 **1. Abstract:**
 
