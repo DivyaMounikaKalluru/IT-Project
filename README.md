@@ -63,6 +63,7 @@ Once an individual creates a POD or sign up for a POD after taking the mandatory
 
 **6.1.4. Request Supplies:**
 
+![Request Supplies](https://user-images.githubusercontent.com/71857062/109550839-ccd69080-7a9d-11eb-8715-4dfda9ae44a6.png)
 
 **6.1.5 Overall Application Design:****
 
