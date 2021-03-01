@@ -5,7 +5,7 @@
 
 **Submitted to:** Dr. Murat Ozer
 
-![image](https://user-images.githubusercontent.com/71857062/109552787-38b9f880-7aa0-11eb-95ec-dfa5d166b728.png)
+![image](https://user-images.githubusercontent.com/71857062/109552900-5be4a800-7aa0-11eb-9b32-e452277c4525.png)
 
 **1. Abstract:**
 
