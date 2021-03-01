@@ -5,6 +5,8 @@
 
 **Submitted to:** Dr. Murat Ozer
 
+![image](https://user-images.githubusercontent.com/71857062/109552445-c8ab7280-7a9f-11eb-856d-26e894345de1.png)
+
 **1. Abstract:**
 
 I think twice and hesitate to go to the university or any workplace to access the library, attend lectures, or work with my peers or colleagues as a team because of this pandemic as I am unaware whether the workplace is safe and secure free from COVID, and raises a question what if my peers or colleagues are suffering from this unknowingly. This always creates a kind of disturbance in me, resulting in mental stress. Along with this, with everything gone online, I get a feeling of isolation that is causing issues with my mental health. Many people might be facing similar issues. So, considering all these, I want to address the problem of isolation and make the situation like before it used to be by providing them with a COVID free environment so that they can get exposed to their workplace and work with their peers or colleagues of their choice without any second thought, which helps in preventing a feeling of isolation, raising their confidence levels improving their mental health. In this IT project, I want to focus on developing an application that will provide people with a secure environment to work as a team of their choice confidently without thinking about the current pandemic and make them relieved from their mental stress by not worrying about being isolated from everyone or the work environment. 
