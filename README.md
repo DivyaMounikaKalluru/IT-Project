@@ -24,13 +24,14 @@ The world used to be calm and peaceful without any complications in the life of 
 
 1. Chen, B., Sun, J., & Feng, Y. (2020). How have COVID-19 isolation policies affected young people’s mental health? –evidence from Chinese college students. Frontiers in psychology, 11. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7327104/ The breakout of COVID-19 has brought about a huge influence on people’s physical and mental health. This paper aims to investigate the mental health status of young people living in isolation due to the policy response to Coronavirus disease. An online survey was conducted in the period of self-isolation with 992 college students to measure seven dimensions of psychological well-being, including mental status, knowledge of stress management, behavioral patterns, risk perception, academic stress, family relationships, and peer relationships. This paper also proposes a six-step intervention strategy to alleviate young people’s psychological problems while in isolation. It provides practical insights into the psychological interventions in face of the global threat. 2. Stadtlander, L., & Sickel, A. (2020, October 1-2). Home as workplace for faculty during COVID-19 self-isolation [Paper presentation]. Walden University Research Conference 2020 (online). https://scholarworks.waldenu.edu/researchconference/2020/papers/1/ This paper examined how COVID-19 self-isolation affected both online and land-based faculty’s (working online due to COVID) workspace and work process. A total of 20 online and 6 land-based faculty completed email interviews and responded to Likert-type questions. Results indicated that online faculty were more satisfied with their home workplace but that both groups felt more negative about their online work, as they felt a loss of freedom and independence due to the isolation. As an increasing number of individuals work from home, understanding the experience is essential. 3. Lucchetti, G., Góes, L. G., Amaral, S. G., Ganadjian, G. T., Andrade, I., de Araújo Almeida, P. O., ... & Manso, M. E. G. (2020). Spirituality, religiosity and the mental health consequences of social isolation during Covid-19 pandemic. The International journal of social psychiatry. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7649649/ This article investigated the association between Religiosity/Spirituality and the mental health consequences of social isolation during the COVID-19 pandemic in Brazil. The COVID-19 pandemic is having and will have important consequences, not only to the physical health but also to the mental health of the population. A recent systematic review has identified that these psychiatric consequences can have implications for both the short and long terms and will probably increase the prevalence of depression, anxiety, fatigue, insomnia, and post-traumatic stress. Exposure to pandemic stress and social isolation seems to increase mental health problems. The findings indicated that there was a high use of religious and spiritual beliefs during the pandemic and that this use was associated with better health outcomes, as evidenced by the higher levels of hopefulness and lower levels of fear, worrying, and sadness in the more religious and spiritual participants. 4. https://landing.google.com/screener/covid19 Google COVID-19 self-assessment. It provides a set of questions to assess our health condition based on the answers provided to those questions by individuals. This helps individuals decide what type of medical care they might need for COVID-19. 5. Der Feltz-Cornelis, V., Maria, C., Varley, D., Allgar, V. L., & De Beurs, E. (2020). Workplace Stress, Presenteeism, Absenteeism, and Resilience Amongst University Staff and Students in the COVID-19 Lockdown. Frontiers in psychiatry, 11, 1284. https://www.frontiersin.org/articles/10.3389/fpsyt.2020.588803/full This article focused on studying the impact of COVID-19 on workers and students at the university of York, UK. In this study, the researchers analyzed how the remote working and furlough affects individuals at the university. To analyze this, researchers conducted a survey to measure stress levels. 7% of staff and 10% of students reported sickness absence. 26% of staff and 40% of the students experienced presenteeism. 22–24% of staff reported clinical-level anxiety and depression scores, and 37.2 and 46.5% of students. Staff experienced high stress levels due to COVID-19 (66.2%, labeled vulnerable) and 33.8% experienced low stress levels (labeled resilient). Students were 71.7% resilient vs. 28.3% non-resilient. 6. Hamza, C. A., Ewing, L., Heath, N. L., & Goldstein, A. L. (2020). When social isolation is nothing new: A longitudinal study psychological distress during COVID-19 among university students with and without preexisting mental health concerns. Canadian Psychology/Psychologie canadienne. https://psycnet.apa.org/record/2020-66840-001 This study compares the mental health of the students with preexisting mental concerns and the students who do not have any concerns psychologically. A survey was conducted in May 2019 for students suffering from mental illness to understand their mental health. These figures comparatively decreased for these students when surveyed in May 2020 and their mental health seems to be increased. But, On the contrary, these figures increased in the case of students not suffering from mental issues because of isolation adhering to COVID-19. 7. Saltzman, L. Y., Hansel, T. C., & Bordnick, P. S. (2020). Loneliness, isolation, and social support factors in post-COVID-19 mental health. Psychological Trauma: Theory, Research, Practice, and Policy. https://psycnet.apa.org/fulltext/2020-43457-001.pdf This paper focuses on exploring the potential impact of COVID-19 on loneliness and well-being. As physical distancing, quarantine, isolation is in place adhering to COVID-19 guidelines, how these restrictions affect a larger population in terms of mental health is analyzed.
 
-**6. Design: **
+**6. Design**
 
 The application, back to teams is for individuals using which they can create a safe and secure environment at their office/university to carry out their day-to-day responsibilities without undergoing any pressure of being attacked by the virus. This helps the individuals in rejuvenating their mental health as they can work with their colleagues/peers without any hesitation overcoming a feeling of being isolated. There are four modules in this application.
 
 **Sign Up for a POD:**
 
 This is an option where individuals without creating a new POD can join in any available POD to work/study that was created by others. But this will be allowed only after taking a mandatory health assessment. The result of the assessment can be either they can proceed to work within that POD i.e., they can come to their workplace to carry out their activities or contact their health provider based on the answers they have provided in the self-assessment.
+
 **Create a POD:**
 
 This includes individuals creating their own POD and inviting their peers/colleagues to that POD with whom they want to work or study. Before creating their own POD or inviting the members to that POD, a mandatory health screening needs to be taken by the individual. The result of the assessment can be either, they can create a POD i.e., they can come to their workplace to carry out their activities or contact their health provider based on the answers they have provided in the self-assessment. The members being invited have the right to either accept the request or reject it. If the request is accepted, health screening needs to be taken by them as well based on which they can proceed accordingly.
@@ -44,11 +45,25 @@ This is a self-assessment where individuals answer various questions concerned w
 Once an individual creates a POD or sign up for a POD after taking the mandatory health assessment, they can ask for supplies like sanitizers, wipes, masks, hand soap, etc., This can be done by clicking the request supplies button that will trigger an email to the management.
 
 **6.1 Flow Charts
-6.1.1 Sign Up for a POD:
-6.1.2. Create a POD:
-6.1.3. Health Check:
-6.1.4. Request Supplies:
-6.1.5 Overall Application Design:**
+
+**6.1.1 Sign Up for a POD:**
+
+![Sign Up for a POD](https://user-images.githubusercontent.com/71857062/109549979-b1b75100-7a9c-11eb-81cc-04490f33deec.PNG)
+
+**6.1.2. Create a POD:**
+
+![Create a POD](https://user-images.githubusercontent.com/71857062/109550067-cbf12f00-7a9c-11eb-83c5-e6d20fb5fe64.PNG)
+
+**6.1.3. Health Check:**
+
+![Health Check](https://user-images.githubusercontent.com/71857062/109550103-d6abc400-7a9c-11eb-995e-e9b8687d64f1.jpg)
+
+**6.1.4. Request Supplies:**
+
+
+**6.1.5 Overall Application Design:****
+
+![Overall Application Design](https://user-images.githubusercontent.com/71857062/109550224-fc38cd80-7a9c-11eb-9d0b-2bd90a40d316.PNG)
 
 **7. Application:**
 
