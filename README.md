@@ -83,25 +83,23 @@ Once an individual creates a POD or sign up for a POD after taking the mandatory
 
 **6.1.1 Sign Up for a POD:**
 
-![image](https://user-images.githubusercontent.com/71857062/114222425-9281ce00-993c-11eb-9f2e-815d4e1f9252.png)
+![HealthCheck jpg-Sign-up for a POD](https://user-images.githubusercontent.com/71857062/114224020-872fa200-993e-11eb-94ad-1ff5b88cd596.jpg)
 
 **6.1.2. Create a POD:**
 
-![image](https://user-images.githubusercontent.com/71857062/114222456-9ada0900-993c-11eb-8d24-68044b603544.png)
+![HealthCheck jpg-Create a POD](https://user-images.githubusercontent.com/71857062/114224047-8e56b000-993e-11eb-808f-f9674fa965cd.jpg)
 
 **6.1.3. Health Check:**
 
-![image](https://user-images.githubusercontent.com/71857062/114222470-a0cfea00-993c-11eb-918d-cf39f940115d.png)
+![HealthCheck jpg-Health Check (1)](https://user-images.githubusercontent.com/71857062/114223802-3e77e900-993e-11eb-8c5b-2fc0cff830b4.png)
 
 **6.1.4. Request Supplies:**
 
-![image](https://user-images.githubusercontent.com/71857062/114222571-c230d600-993c-11eb-8ece-dab971c385cf.png)
-
-
+![HealthCheck jpg-Request Supplies](https://user-images.githubusercontent.com/71857062/114224081-9b739f00-993e-11eb-9bd4-5a85ed29d8ed.png)
 
 **6.1.5 Overall Application Design:****
 
-![image](https://user-images.githubusercontent.com/71857062/114222633-d1178880-993c-11eb-8704-88a3a94d111a.png)
+![Design-High Level Design](https://user-images.githubusercontent.com/71857062/114224116-aa5a5180-993e-11eb-9274-b8a468cbab04.jpg)
 
 **7. Application:**
 
