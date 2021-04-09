@@ -91,7 +91,7 @@ Once an individual creates a POD or sign up for a POD after taking the mandatory
 
 **6.1.3. Health Check:**
 
-![Health Check](https://user-images.githubusercontent.com/71857062/109550103-d6abc400-7a9c-11eb-995e-e9b8687d64f1.jpg)
+![image](https://user-images.githubusercontent.com/71857062/114205353-37de7700-9928-11eb-9113-0aff42856fe1.png)
 
 **6.1.4. Request Supplies:**
 
