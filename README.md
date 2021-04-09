@@ -121,17 +121,17 @@ In conclusion, this application provides a healthy workplace for individuals to 
 
 **9. Future Scope:**
 
-•	**Exposer score** - Track the movement of people using the app and assign risk numbers to the places they travel to. The riskier places they travel to, the higher their exposure score will be.
+• **Exposer score** - Track the movement of people using the app and assign risk numbers to the places they travel to. The riskier places they travel to, the higher their exposure score will be.
 
-•	Enable HRs/School Management to send notifications to people in a particular county/location about purple/red zones. 
+• Enable HRs/School Management to send notifications to people in a particular county/location about purple/red zones. 
 
-•	Integrate app with Virtual Assistants from Health Department to assist them with precautions, next steps, counseling.
+• Integrate app with Virtual Assistants from Health Department to assist them with precautions, next steps, counseling.
 
-•	Allowing Companies/Universities to track the number of cases within the respective buildings.
+• Allowing Companies/Universities to track the number of cases within the respective buildings.
 
-•	Add more ways to ensure less spread by integrating special features for analyzing the temperature, anxiety levels, and so on.
+• Add more ways to ensure less spread by integrating special features for analyzing the temperature, anxiety levels, and so on.
 
-•	The application can check (using a survey) if a person is suffering from constant anxiety, the organizations can assign counsellors/counselling sessions for such people.
+• The application can check (using a survey) if a person is suffering from constant anxiety, the organizations can assign counsellors/counselling sessions for such people.
 
 **10 . References:**
 
