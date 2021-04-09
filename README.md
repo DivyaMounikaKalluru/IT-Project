@@ -111,7 +111,7 @@ Once an individual creates a POD or sign up for a POD after taking the mandatory
 
 **Common Data Service and SharePoint (Database):** This is to store tables and all the related data concerned with the developed **“Back to Teams”** application.
 
-**7.2 Application URL:** 
+**7.2 Application URL:** https://apps.powerapps.com/play/8bfbe2b6-7507-41e9-bf01-e7f8a41f9b2e?tenantId=8f03e585-dc5e-4015-af03-7566ea03f3b7
 
 **7.3 GitHub URL:** https://github.com/DivyaMounikaKalluru/IT-Project.git
 
