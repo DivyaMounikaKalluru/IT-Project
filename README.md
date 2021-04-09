@@ -83,23 +83,23 @@ Once an individual creates a POD or sign up for a POD after taking the mandatory
 
 **6.1.1 Sign Up for a POD:**
 
-![Sign Up for a POD](https://user-images.githubusercontent.com/71857062/109549979-b1b75100-7a9c-11eb-81cc-04490f33deec.PNG)
+![image](https://user-images.githubusercontent.com/71857062/114222425-9281ce00-993c-11eb-9f2e-815d4e1f9252.png)
 
 **6.1.2. Create a POD:**
 
-![Create a POD](https://user-images.githubusercontent.com/71857062/109550067-cbf12f00-7a9c-11eb-83c5-e6d20fb5fe64.PNG)
+![image](https://user-images.githubusercontent.com/71857062/114222456-9ada0900-993c-11eb-8d24-68044b603544.png)
 
 **6.1.3. Health Check:**
 
-![image](https://user-images.githubusercontent.com/71857062/114205353-37de7700-9928-11eb-9113-0aff42856fe1.png)
+![image](https://user-images.githubusercontent.com/71857062/114222470-a0cfea00-993c-11eb-918d-cf39f940115d.png)
 
 **6.1.4. Request Supplies:**
 
-![Request Supplies](https://user-images.githubusercontent.com/71857062/109550839-ccd69080-7a9d-11eb-8715-4dfda9ae44a6.png)
+![image](https://user-images.githubusercontent.com/71857062/114222571-c230d600-993c-11eb-8ece-dab971c385cf.png)
 
 **6.1.5 Overall Application Design:****
 
-![Overall Application Design](https://user-images.githubusercontent.com/71857062/109550224-fc38cd80-7a9c-11eb-9d0b-2bd90a40d316.PNG)
+![image](https://user-images.githubusercontent.com/71857062/114222633-d1178880-993c-11eb-8704-88a3a94d111a.png)
 
 **7. Application:**
 
@@ -135,36 +135,36 @@ In conclusion, this application provides a healthy workplace for individuals to 
 
 **10 . References:**
 
-1.	Fong, S. J., Dey, N., & Chaki, J. (2020). An Introduction to COVID-19. Artificial Intelligence for Coronavirus Outbreak, 1–22. https://doi.org/10.1007/978-981-15-5936-5_1
+1. Fong, S. J., Dey, N., & Chaki, J. (2020). An Introduction to COVID-19. Artificial Intelligence for Coronavirus Outbreak, 1–22. https://doi.org/10.1007/978-981-15-5936-5_1
 
-2.	Hwang, T. J., Rabheru, K., Peisah, C., Reichman, W., & Ikeda, M. (2020). Loneliness and social isolation during the COVID-19 pandemic. International psychogeriatrics, 32(10), 1217–1220. https://doi.org/10.1017/S1041610220000988
+2. Hwang, T. J., Rabheru, K., Peisah, C., Reichman, W., & Ikeda, M. (2020). Loneliness and social isolation during the COVID-19 pandemic. International psychogeriatrics, 32(10), 1217–1220. https://doi.org/10.1017/S1041610220000988
 
-3.	Ettman CK, Abdalla SM, Cohen GH, Sampson L, Vivier PM, Galea S. Prevalence of Depression Symptoms in US Adults Before and During the COVID-19 Pandemic. JAMA Netw Open. 2020;3(9):e2019686. doi:10.1001/jamanetworkopen.2020.19686
+3. Ettman CK, Abdalla SM, Cohen GH, Sampson L, Vivier PM, Galea S. Prevalence of Depression Symptoms in US Adults Before and During the COVID-19 Pandemic. JAMA Netw Open. 2020;3(9):e2019686. doi:10.1001/jamanetworkopen.2020.19686
 	
-4.	Wu, Yi-Chia; Chen, Ching-Sunga; Chan, Yu-Jiuna,b,c,* The outbreak of COVID-19: An overview, Journal of the Chinese Medical Association: March 2020 - Volume 83 - Issue 3 - p 217-220 doi: 10.1097/JCMA.0000000000000270
+4. Wu, Yi-Chia; Chen, Ching-Sunga; Chan, Yu-Jiuna,b,c,* The outbreak of COVID-19: An overview, Journal of the Chinese Medical Association: March 2020 - Volume 83 - Issue 3 - p 217-220 doi: 10.1097/JCMA.0000000000000270
 
-5.	Chen, B., Sun, J., & Feng, Y. (2020). How Have COVID-19 Isolation Policies Affected Young People's Mental Health? - Evidence From Chinese College Students. Frontiers in psychology, 11, 1529. https://doi.org/10.3389/fpsyg.2020.01529
+5. Chen, B., Sun, J., & Feng, Y. (2020). How Have COVID-19 Isolation Policies Affected Young People's Mental Health? - Evidence From Chinese College Students. Frontiers in psychology, 11, 1529. https://doi.org/10.3389/fpsyg.2020.01529
 
-6.	Stadtlander, L., & Sickel, A. (2020, October 1-2). Home as workplace for faculty during   COVID-19 self-isolation [Paper presentation]. Walden University Research Conference 2020 (online).
+6. Stadtlander, L., & Sickel, A. (2020, October 1-2). Home as workplace for faculty during   COVID-19 self-isolation [Paper presentation]. Walden University Research Conference 2020 (online).
 
-7.	Hamza, C. A., Ewing, L., Heath, N. L., & Goldstein, A. L. (2020). When social isolation is nothing new: A longitudinal study psychological distress during COVID-19 among university students with and without preexisting mental health concerns. Canadian Psychology/Psychologie canadienne.  https://doi.org/10.1037/cap0000255
+7. Hamza, C. A., Ewing, L., Heath, N. L., & Goldstein, A. L. (2020). When social isolation is nothing new: A longitudinal study psychological distress during COVID-19 among university students with and without preexisting mental health concerns. Canadian Psychology/Psychologie canadienne.  https://doi.org/10.1037/cap0000255
 
-8.	Saltzman, L. Y., Hansel, T. C., & Bordnick, P. S. (2020). Loneliness, isolation, and social support factors in post-COVID-19 mental health. Psychological Trauma: Theory, Research, Practice, and Policy.
+8. Saltzman, L. Y., Hansel, T. C., & Bordnick, P. S. (2020). Loneliness, isolation, and social support factors in post-COVID-19 mental health. Psychological Trauma: Theory, Research, Practice, and Policy.
 
-9.	Ciotti M, Angeletti S, Minieri M, Giovannetti M, Benvenuto D, Pascarella S, Sagnelli C, Bianchi M, Bernardini S, Ciccozzi M: COVID-19 Outbreak: An Overview. Chemotherapy 2019;64:215-223. doi: 10.1159/000507423
+9. Ciotti M, Angeletti S, Minieri M, Giovannetti M, Benvenuto D, Pascarella S, Sagnelli C, Bianchi M, Bernardini S, Ciccozzi M: COVID-19 Outbreak: An Overview. Chemotherapy 2019;64:215-223. doi: 10.1159/000507423
 
-10.	https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html
+10. https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html
 
-11.	https://www.flexjobs.com/blog/post/flexjobs-mha-mental-health-workplace-pandemic/
+11. https://www.flexjobs.com/blog/post/flexjobs-mha-mental-health-workplace-pandemic/
 
-12.	https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/coronavirus-is-triggering-fear-of-going-to-work
+12. https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/coronavirus-is-triggering-fear-of-going-to-work
 
-13.	https://docs.microsoft.com/en-us/powerapps/
+13. https://docs.microsoft.com/en-us/powerapps/
 
-14.	https://my.clevelandclinic.org/departments/employer-healthcare-solutions/covid-19-workplace-safety
+14. https://my.clevelandclinic.org/departments/employer-healthcare-solutions/covid-19-workplace-safety
 
-15.	https://www.reuters.com/article/uk-factcheck-nurse-covid-vaccine-dead/fact-check-nurse-who-fainted-after-covid-19-vaccine-did-not-die-idUSKBN29629G
+15. https://www.reuters.com/article/uk-factcheck-nurse-covid-vaccine-dead/fact-check-nurse-who-fainted-after-covid-19-vaccine-did-not-die-idUSKBN29629G
 
-16.	https://pubmed.ncbi.nlm.nih.gov/32311437/
+16. https://pubmed.ncbi.nlm.nih.gov/32311437/
 
-17.	https://landing.google.com/screener/covid19
+17. https://landing.google.com/screener/covid19
