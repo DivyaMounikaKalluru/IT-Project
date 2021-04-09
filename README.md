@@ -99,7 +99,7 @@ Once an individual creates a POD or sign up for a POD after taking the mandatory
 
 **6.1.5 Overall Application Design:****
 
-![Design-High Level Design](https://user-images.githubusercontent.com/71857062/114224116-aa5a5180-993e-11eb-9274-b8a468cbab04.jpg)
+![Design-High Level Design (1)](https://user-images.githubusercontent.com/71857062/114224417-0a50f800-993f-11eb-9e11-98f67dfde005.jpg)
 
 **7. Application:**
 
