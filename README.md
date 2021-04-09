@@ -98,6 +98,7 @@ Once an individual creates a POD or sign up for a POD after taking the mandatory
 ![image](https://user-images.githubusercontent.com/71857062/114222571-c230d600-993c-11eb-8ece-dab971c385cf.png)
 
 
+
 **6.1.5 Overall Application Design:****
 
 ![image](https://user-images.githubusercontent.com/71857062/114222633-d1178880-993c-11eb-8704-88a3a94d111a.png)
