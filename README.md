@@ -1,4 +1,4 @@
-# Back to Teams Application#
+# Back to Teams Application
 **IT 8010:** IT Project
 
 **Term:** Spring 2021
